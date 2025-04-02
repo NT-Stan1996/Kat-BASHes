@@ -1,4 +1,4 @@
-# Kat#BASHes - Milestone 0.1
+# Kat#BASHes
 
 ## Sobre
 Kat#BASHes (Kat BASH Entertainment System) é um ambiente de execução de jogos baseado em Bash, focado em simplicidade e compatibilidade com scripts `.sh` e executáveis `.bin`. Desenvolvido por **NekoDev-Stan2024** e distribuído pela **Neko Interactive Systems™**, o sistema busca oferecer uma experiência intuitiva para rodar jogos de maneira prática.
