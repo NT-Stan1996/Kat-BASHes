@@ -27,6 +27,12 @@ O menu inicial do Kat#BASHes é baseado em `dialog`, oferecendo uma interface si
 - Jogos `.sh` são executados com Bash e precisam de uma assinatura válida (`KTBASHES` ou `FIRE`).
 - Jogos `.bin` são executados diretamente, sem verificação de assinatura (suporte a .bin é experimental).
 
+### Como adicionar uma assinatura?
+- Na terceira linha do seu jogo (`.sh` apenas), adicione:
+```
+# SIGNATURE="<assinatura aqui>"
+```
+
 ## Créditos
 - **Desenvolvimento:** NekoDev-Stan2024
 - **Distribuição:** Neko Interactive Systems™
