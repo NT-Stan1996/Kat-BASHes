@@ -1,7 +1,7 @@
 # Kat#BASHes
 
 ## Sobre
-Kat#BASHes (Kat BASH Entertainment System) é um ambiente de execução de jogos baseado em Bash, focado em simplicidade e compatibilidade com scripts `.sh` e executáveis `.bin`. Desenvolvido por **NekoDev-Stan2024** e distribuído pela **Neko Interactive Systems™**, o sistema busca oferecer uma experiência intuitiva para rodar jogos de maneira prática.
+Kat#BASHes (Kat BASH Entertainment System) é um ambiente de execução de jogos baseado em Bash, focado em simplicidade e compatibilidade com scripts `.sh` e executáveis `.bin`. Desenvolvido por **StanoBemLoko** (eu) e distribuído pela **Neko Interactive Systems™**, o sistema busca oferecer uma experiência intuitiva para rodar jogos de maneira prática.
 
 ## Instalador
 O instalador do Kat#BASHes é um script Bash que automatiza a instalação do sistema, criando a estrutura de diretórios necessária e preparando um atalho para inicialização rápida.
@@ -19,7 +19,7 @@ O menu inicial do Kat#BASHes é baseado em `dialog`, oferecendo uma interface si
 1. **Jogar** - Lista os jogos instalados e permite iniciar um deles.
 2. **Jogos Salvos** - Gerencia arquivos `.SAV`, permitindo exclusão.
 3. **Sobre** - Exibe informações sobre o Kat#BASHes e os desenvolvedores.
-4. **NIS™ Store** - Atualmente indisponível.
+4. **NIS™ Store** - Loja de Jogos e Apps
 5. **Sair** - Encerra o sistema.
 6. **PWD** - Mostra o diretório atual.
 
@@ -34,20 +34,17 @@ O menu inicial do Kat#BASHes é baseado em `dialog`, oferecendo uma interface si
 ```
 
 ## Créditos
-- **Desenvolvimento:** NekoDev-Stan2024
+- **Desenvolvimento:** StanoBemLoko (eu)
 - **Distribuição:** Neko Interactive Systems™
 - **Apoio:**
   - Fire <3
-  - NLH_@p (Nicke Mikhayo)
-  - Inter (Arthur Limão dos Santos)
-  - Mono (Nome real desconhecido)
 
 ## Como Contribuir
 Contribuições são bem-vindas! Você pode sugerir melhorias, reportar bugs e ajudar no desenvolvimento.
 
 ## Licença
-_(C) 2024-2025 Neko Interactive Systems™_
+_© 2024-2025 Neko Interactive Systems™_
 
-_(C) 2019-2025 TGF! Studios®_
+_© 2019-2025 TGF! Studios™_
 
 Todos os direitos reservados.
